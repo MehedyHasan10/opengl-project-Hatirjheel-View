@@ -6,6 +6,5 @@ Sky, Clouds (in motion), Sun, Moon, Roads, Street lights, Traffic signal, Bus St
 Press 1 for Day View.
 Press 2 for Night View.
 Press 3 for Day Rain Mood View.
-Press 4 for Night Rain Mood View
-Video link:----------
+Press 4 for Night Rain Mood View.
 https://www.youtube.com/watch?v=ct81ll7PO3s&amp;t=11s
